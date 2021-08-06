@@ -97,7 +97,7 @@ height: 50px;
 }
 .indent
 {
-    text-indent: 35px;
+    margin-left: 35px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
